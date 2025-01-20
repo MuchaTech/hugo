@@ -1,1 +1,1 @@
-# All hugo states
+# All hugo sites
